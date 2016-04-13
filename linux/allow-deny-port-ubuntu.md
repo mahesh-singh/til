@@ -17,7 +17,7 @@ Examples
 
 `sudo ufw deny 53/tcp`
 
-Reference  - (https://help.ubuntu.com/community/UFW) [UFW - Uncomplicated Firewall]
+Reference  - [https://help.ubuntu.com/community/UFW] (UFW - Uncomplicated Firewall)
 
 
 
