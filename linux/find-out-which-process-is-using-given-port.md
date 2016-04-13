@@ -5,3 +5,5 @@ lsof -i :5000
 ```
 
 **lsof** might need to install.
+
+lsof - list of open files 
