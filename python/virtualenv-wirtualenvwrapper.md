@@ -1,4 +1,4 @@
-#How to to activate venv
+#How to use virtualenv & virtualenvwrapper
 
 install pip
 `sudo apt-get install python3-pip`
