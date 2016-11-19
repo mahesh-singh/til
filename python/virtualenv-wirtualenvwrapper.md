@@ -34,7 +34,7 @@ Activate/switch to a virtualenv
 Attach existing code with virtual env
 1. Create and activate virtual env
 2. Move to project directory
-3. run setvirtualenvproject to attach project directory with virtualenv
+3. run `setvirtualenvproject` to attach project directory with virtualenv
 
 Create new virtual env and project
 
